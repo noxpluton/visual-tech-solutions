@@ -117,6 +117,7 @@ open index.html
     visual-tech-solutions/
 ├── index.html
 ├── DOCUMENTATION.md
+├── LICENSE.md
 └── README.md
 ```
 
