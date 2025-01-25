@@ -28,4 +28,4 @@ O EL USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.
 ## Contacto
 
 Para cualquier consulta sobre la licencia, por favor contactar a:
-- contacto@visualtech.com
+- noxpluton@gmail.com
