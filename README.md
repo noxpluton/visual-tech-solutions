@@ -3,6 +3,8 @@
 ## 🌟 Descripción
 Visual Tech Solutions es una plataforma web dedicada a proporcionar soluciones tecnológicas para personas con discapacidad visual. El sitio está diseñado con un enfoque en la accesibilidad y la experiencia de usuario.
 
+Se puede visitar la pagina dando click aqui [visual-tech-solutions](https://noxpluton.github.io/visual-tech-solutions/)
+
 ## 🚀 Características Principales
 
 ### 1. Diseño Responsive
